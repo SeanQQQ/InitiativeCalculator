@@ -1,0 +1,3 @@
+PCsRoll:true
+AutosaveInitiative:true
+PCList:Soireles.txt

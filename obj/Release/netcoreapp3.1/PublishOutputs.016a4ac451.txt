@@ -1,0 +1,5 @@
+C:\Users\SeanSavanah\source\repos\InitCalcCLI6\InitCalcCLI6\bin\Release\netcoreapp3.1\publish\InitCalcCLI6.exe
+C:\Users\SeanSavanah\source\repos\InitCalcCLI6\InitCalcCLI6\bin\Release\netcoreapp3.1\publish\InitCalcCLI6.dll
+C:\Users\SeanSavanah\source\repos\InitCalcCLI6\InitCalcCLI6\bin\Release\netcoreapp3.1\publish\InitCalcCLI6.deps.json
+C:\Users\SeanSavanah\source\repos\InitCalcCLI6\InitCalcCLI6\bin\Release\netcoreapp3.1\publish\InitCalcCLI6.runtimeconfig.json
+C:\Users\SeanSavanah\source\repos\InitCalcCLI6\InitCalcCLI6\bin\Release\netcoreapp3.1\publish\InitCalcCLI6.pdb

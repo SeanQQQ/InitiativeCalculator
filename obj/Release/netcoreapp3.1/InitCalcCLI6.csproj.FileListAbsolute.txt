@@ -1,0 +1,13 @@
+C:\Users\SeanSavanah\source\repos\InitCalcCLI6\InitCalcCLI6\bin\Release\netcoreapp3.1\InitCalcCLI6.exe
+C:\Users\SeanSavanah\source\repos\InitCalcCLI6\InitCalcCLI6\bin\Release\netcoreapp3.1\InitCalcCLI6.deps.json
+C:\Users\SeanSavanah\source\repos\InitCalcCLI6\InitCalcCLI6\bin\Release\netcoreapp3.1\InitCalcCLI6.runtimeconfig.json
+C:\Users\SeanSavanah\source\repos\InitCalcCLI6\InitCalcCLI6\bin\Release\netcoreapp3.1\InitCalcCLI6.runtimeconfig.dev.json
+C:\Users\SeanSavanah\source\repos\InitCalcCLI6\InitCalcCLI6\bin\Release\netcoreapp3.1\InitCalcCLI6.dll
+C:\Users\SeanSavanah\source\repos\InitCalcCLI6\InitCalcCLI6\bin\Release\netcoreapp3.1\InitCalcCLI6.pdb
+C:\Users\SeanSavanah\source\repos\InitCalcCLI6\InitCalcCLI6\obj\Release\netcoreapp3.1\InitCalcCLI6.csproj.AssemblyReference.cache
+C:\Users\SeanSavanah\source\repos\InitCalcCLI6\InitCalcCLI6\obj\Release\netcoreapp3.1\InitCalcCLI6.AssemblyInfoInputs.cache
+C:\Users\SeanSavanah\source\repos\InitCalcCLI6\InitCalcCLI6\obj\Release\netcoreapp3.1\InitCalcCLI6.AssemblyInfo.cs
+C:\Users\SeanSavanah\source\repos\InitCalcCLI6\InitCalcCLI6\obj\Release\netcoreapp3.1\InitCalcCLI6.csproj.CoreCompileInputs.cache
+C:\Users\SeanSavanah\source\repos\InitCalcCLI6\InitCalcCLI6\obj\Release\netcoreapp3.1\InitCalcCLI6.dll
+C:\Users\SeanSavanah\source\repos\InitCalcCLI6\InitCalcCLI6\obj\Release\netcoreapp3.1\InitCalcCLI6.pdb
+C:\Users\SeanSavanah\source\repos\InitCalcCLI6\InitCalcCLI6\obj\Release\netcoreapp3.1\InitCalcCLI6.genruntimeconfig.cache

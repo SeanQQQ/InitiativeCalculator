@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BVeeELu2oEsWGFaAXiICF0KyCGcjkYunNGrjdFGdAqVvuU55PPel5Osqm7nBnKOQJgQs3MLTmUAaTDhh3y9QeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SeanSavanah\\source\\repos\\InitCalcCLI6\\InitCalcCLI6\\InitCalcCLI6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SeanSavanah\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
