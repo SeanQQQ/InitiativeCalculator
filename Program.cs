@@ -157,7 +157,7 @@ namespace InitCalcCLI6
             string path = AppDomain.CurrentDomain.BaseDirectory;
 
 
-            string filename = DateTime.Now.ToString("yyMMddhhmm") + ".ect";
+            string filename = DateTime.Now.ToString("yyMMddhhmm") + ".txt";
 
             StreamWriter file = new StreamWriter(File.Create(path + "/SavedInitiativeOrders/" + filename));
 
@@ -179,7 +179,7 @@ namespace InitCalcCLI6
                 string filename = Console.ReadLine();
 
                 filename = filename.Split('.')[0];
-                filename += ".txt";
+                filename += ".ect";
 
                 string path = AppDomain.CurrentDomain.BaseDirectory;
 
