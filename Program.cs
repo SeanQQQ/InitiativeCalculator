@@ -92,9 +92,9 @@ namespace InitCalcCLI6
                 Console.WriteLine("1. Roll New Initiative");
                 Console.WriteLine("2. Load Encounter");
                 Console.WriteLine("3. Add Players");
-                Console.WriteLine("4. Delete Players");
-                Console.WriteLine("5. See Players");
-                Console.WriteLine("6. Reload Players");
+                Console.WriteLine("4. Remove Players");
+                Console.WriteLine("5. See Current Players");
+                Console.WriteLine("6. Reload Players From File");
                 Console.WriteLine("Esc To Quit");
                 Console.WriteLine("");
 
@@ -301,7 +301,7 @@ namespace InitCalcCLI6
         {
             Console.Write("Enter Player Character Name >");
             string name = Console.ReadLine();
-            if (PCs.Remove(new Character(name)))
+            if (PCs.Remove( PCs.Where(pc => pc.name == name ).FirstOrDefault()))
                 Console.WriteLine(name + " deleted");
             else
                 Console.WriteLine(name + " not found");
